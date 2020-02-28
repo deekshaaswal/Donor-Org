@@ -1,0 +1,7 @@
+mongoimport --db DonorOrg --collection Donor_Tab3_Final --file /Users/deekshaaswal/Downloads/Donor_Tab3_Final.csv --type csv --headerline
+
+mongoimport --db DonorOrg --collection KnnTable_Final --file /Users/deekshaaswal/Downloads/KnnTable_Final.csv--type csv --headerline
+
+mongoimport --db DonorOrg --collection Project_Tab3_Final --file /Users/deekshaaswal/Downloads/Project_Tab3_Final.csv --type csv --headerline
+
+mongoimport --db DonorOrg --collection Grade_Level_Category --file /Users/deekshaaswal/Downloads/Grade_Level_Category_Final.csv --type csv --headerline
